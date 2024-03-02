@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Taha
 - 👀 I’m interested in Data science, ML, AI
 - 🌱 I’m currently learning AI
+- 🎓 Certified in Python Programming 
+- 🎓 Certified in Data Analysis with Python 
 - 📫 You can reach me on taharizvi.ai@gmail.com
 
 <!---
